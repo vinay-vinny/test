@@ -1,0 +1,9 @@
+[
+    {
+        "description": "test description",
+        "postImage": "Image Path",
+        "userId": "test user",
+        "createAt": "2021-12-01",
+        "updateAt": "2020-12-12"
+    }
+]
